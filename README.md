@@ -20,3 +20,7 @@ Technologies Used:-
 * CSS: Styling and layout.
 
 * JavaScript: Dynamic functionality and calculations.
+
+Contributing:-
+
+Contributions are welcome! Feel free to fork this repository and submit pull requests with new features or bug fixes.
